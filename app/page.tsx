@@ -16,7 +16,7 @@ export default function Home() {
           className={styles.logo}
           src="/dnn_alt.jpg"
           alt="Next.js Logo"
-          width={336}
+          width={448}
           height={448}
           style={{ marginBottom: "1em" }}
           priority
