@@ -150,6 +150,7 @@
 
   .center {
     padding: 8rem 0 6rem;
+    width: 20rem;
   }
 
   .center::before {
