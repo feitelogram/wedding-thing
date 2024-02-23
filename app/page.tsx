@@ -130,8 +130,7 @@ export default function Home() {
                   <b> a PayPal</b>
                 </a>{" "}
                 and this money will help us have a fun time on our honeymoon and
-                not worry about how to secretly charge things to my corporate
-                job.
+                not worry about how to secretly charge things to my soon-to-be in-laws.
               </i>
             </p>
           </li>
