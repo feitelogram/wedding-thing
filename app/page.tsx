@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
         <Image
           className={styles.logo}
-          src="/dnn.jpg"
+          src="/dnn_alt.jpg"
           alt="Next.js Logo"
           width={336}
           height={448}
